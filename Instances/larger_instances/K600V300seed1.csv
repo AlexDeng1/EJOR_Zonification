@@ -1,0 +1,902 @@
+traveller_id,cus_o,cus_d,highest_pl,whether_request
+t539,Esthersvej 34,Vigerslev Venge 60,None,N
+t449,Amalievej 1,Egirsgade 65,None,N
+t1136,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Halvtolv 19,None,N
+t834,Egirsgade 65,Drechselsgade 13,None,N
+t758,Bygmestervej 59,Orientkaj 4,None,N
+t347,Solvgade 11,Dronninglundvej 12,None,N
+t441,Amalievej 1,Esthersvej 34,None,N
+t1108,Frederik Vs Vej 13  (Rigshospital P huset),Orientkaj 4,None,N
+t62,Albaniensgade 4,Borups Plads (overfor Stefansgade 73),None,N
+t1252,Borgbjergsvej 43,Solvgade 11,None,N
+t724,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t284,Halvtolv 19,Esthersvej 34,4,Y
+t1267,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),1,Y
+t790,Bygmestervej 59,Amalievej 1,None,N
+t123,Bispebjerg Bakke 22,Halvtolv 19,None,N
+t1326,Vigerslev Venge 60,Halvtolv 19,None,N
+t1245,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t1277,Borgbjergsvej 43,Dronninglundvej 12,1,Y
+t50,Albaniensgade 4,Esthersvej 34,None,N
+t727,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t518,Esthersvej 34,Amalievej 1,None,N
+t4,Albaniensgade 4,Nesbyholmvej 1,None,N
+t1240,Borgbjergsvej 43,Westend 8,None,N
+t946,Borups Plads (overfor Stefansgade 73),Amalievej 1,None,N
+t595,Drechselsgade 13,Amalievej 1,None,N
+t341,Solvgade 11,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t774,Bygmestervej 59,Vigerslev Venge 60,None,N
+t468,Esthersvej 34,Albaniensgade 4,None,N
+t664,Orientkaj 4,Albaniensgade 4,2,Y
+t387,Solvgade 11,Westend 8,None,N
+t996,Arne Jacobsens Alle 7,Egirsgade 65,None,N
+t83,Bispebjerg Bakke 22,Halvtolv 19,None,N
+t781,Bygmestervej 59,Albaniensgade 4,4,Y
+t195,Nesbyholmvej 1,Albaniensgade 4,None,N
+t1118,Frederik Vs Vej 13  (Rigshospital P huset),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t621,Drechselsgade 13,Westend 8,None,N
+t1432,Dronninglundvej 12,Westend 8,None,N
+t795,Bygmestervej 59,Drechselsgade 13,None,N
+t91,Bispebjerg Bakke 22,Husumvej (overfor 131),None,N
+t20,Albaniensgade 4,Egirsgade 65,None,N
+t606,Drechselsgade 13,Egirsgade 65,None,N
+t210,Nesbyholmvej 1,Drechselsgade 13,4,Y
+t1318,Vigerslev Venge 60,Westend 8,None,N
+t1331,Vigerslev Venge 60,Amalievej 1,None,N
+t854,Egirsgade 65,Dronninglundvej 12,None,N
+t1528,Westend 8,Drechselsgade 13,None,N
+t882,Egirsgade 65,Arne Jacobsens Alle 7,None,N
+t1365,Dronninglundvej 12,Halvtolv 19,None,N
+t693,Orientkaj 4,Borgbjergsvej 43,None,N
+t974,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t1153,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),2,Y
+t463,Amalievej 1,Dronninglundvej 12,None,N
+t226,Nesbyholmvej 1,Borgbjergsvej 43,4,Y
+t857,Egirsgade 65,Westend 8,None,N
+t675,Orientkaj 4,Esthersvej 34,1,Y
+t780,Bygmestervej 59,Albaniensgade 4,None,N
+t1537,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t220,Nesbyholmvej 1,Arne Jacobsens Alle 7,None,N
+t1247,Borgbjergsvej 43,Nesbyholmvej 1,None,N
+t819,Egirsgade 65,Albaniensgade 4,None,N
+t986,Arne Jacobsens Alle 7,Amalievej 1,None,N
+t94,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t498,Esthersvej 34,Borgbjergsvej 43,None,N
+t1197,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borgbjergsvej 43,None,N
+t1211,Borgbjergsvej 43,Halvtolv 19,None,N
+t694,Orientkaj 4,Borgbjergsvej 43,None,N
+t1355,Vigerslev Venge 60,Dronninglundvej 12,None,N
+t647,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t681,Orientkaj 4,Bygmestervej 59,None,N
+t343,Solvgade 11,Borgbjergsvej 43,None,N
+t263,Halvtolv 19,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t584,Husumvej (overfor 131),Westend 8,None,N
+t559,Husumvej (overfor 131),Esthersvej 34,1,Y
+t1152,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),None,N
+t528,Esthersvej 34,Egirsgade 65,None,N
+t108,Bispebjerg Bakke 22,Borgbjergsvej 43,2,Y
+t67,Albaniensgade 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t330,Solvgade 11,Bygmestervej 59,None,N
+t115,Bispebjerg Bakke 22,Westend 8,None,N
+t1234,Borgbjergsvej 43,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1249,Borgbjergsvej 43,Halvtolv 19,None,N
+t897,Borups Plads (overfor Stefansgade 73),Albaniensgade 4,None,N
+t826,Egirsgade 65,Halvtolv 19,None,N
+t665,Orientkaj 4,Bispebjerg Bakke 22,4,Y
+t1251,Borgbjergsvej 43,Solvgade 11,1,Y
+t1230,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t1308,Vigerslev Venge 60,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t420,Amalievej 1,Borgbjergsvej 43,None,N
+t1210,Borgbjergsvej 43,Nesbyholmvej 1,None,N
+t927,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,None,N
+t1516,Westend 8,Bispebjerg Bakke 22,None,N
+t1454,Westend 8,Bygmestervej 59,None,N
+t375,Solvgade 11,Arne Jacobsens Alle 7,None,N
+t713,Orientkaj 4,Amalievej 1,None,N
+t445,Amalievej 1,Orientkaj 4,None,N
+t275,Halvtolv 19,Bispebjerg Bakke 22,None,N
+t1310,Vigerslev Venge 60,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1456,Westend 8,Egirsgade 65,None,N
+t239,Halvtolv 19,Nesbyholmvej 1,None,N
+t756,Bygmestervej 59,Drechselsgade 13,None,N
+t1209,Borgbjergsvej 43,Nesbyholmvej 1,None,N
+t1501,Westend 8,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t223,Nesbyholmvej 1,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t533,Esthersvej 34,Frederik Vs Vej 13  (Rigshospital P huset),2,Y
+t541,Esthersvej 34,Dronninglundvej 12,None,N
+t1227,Borgbjergsvej 43,Egirsgade 65,None,N
+t1124,Frederik Vs Vej 13  (Rigshospital P huset),Dronninglundvej 12,None,N
+t296,Halvtolv 19,Borups Plads (overfor Stefansgade 73),None,N
+t484,Esthersvej 34,Orientkaj 4,None,N
+t77,Albaniensgade 4,Westend 8,None,N
+t1505,Westend 8,Borgbjergsvej 43,1,Y
+t358,Solvgade 11,Halvtolv 19,None,N
+t1163,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Dronninglundvej 12,1,Y
+t1526,Westend 8,Esthersvej 34,None,N
+t118,Bispebjerg Bakke 22,Albaniensgade 4,1,Y
+t505,Esthersvej 34,Westend 8,4,Y
+t1192,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t250,Halvtolv 19,Orientkaj 4,None,N
+t629,Drechselsgade 13,Nesbyholmvej 1,None,N
+t291,Halvtolv 19,Bygmestervej 59,None,N
+t1187,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Bygmestervej 59,None,N
+t214,Nesbyholmvej 1,Bygmestervej 59,4,Y
+t1506,Westend 8,Borgbjergsvej 43,None,N
+t200,Nesbyholmvej 1,Halvtolv 19,None,N
+t1205,Borgbjergsvej 43,Albaniensgade 4,None,N
+t1219,Borgbjergsvej 43,Husumvej (overfor 131),None,N
+t702,Orientkaj 4,Albaniensgade 4,None,N
+t288,Halvtolv 19,Drechselsgade 13,None,N
+t1380,Dronninglundvej 12,Egirsgade 65,None,N
+t1171,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Nesbyholmvej 1,None,N
+t610,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t472,Esthersvej 34,Nesbyholmvej 1,None,N
+t1347,Vigerslev Venge 60,Frederik Vs Vej 13  (Rigshospital P huset),4,Y
+t205,Nesbyholmvej 1,Amalievej 1,None,N
+t128,Bispebjerg Bakke 22,Esthersvej 34,None,N
+t1246,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t966,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,None,N
+t850,Egirsgade 65,Borgbjergsvej 43,None,N
+t1344,Vigerslev Venge 60,Borups Plads (overfor Stefansgade 73),None,N
+t596,Drechselsgade 13,Amalievej 1,None,N
+t172,Nesbyholmvej 1,Orientkaj 4,None,N
+t145,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t435,Amalievej 1,Halvtolv 19,None,N
+t832,Egirsgade 65,Esthersvej 34,None,N
+t84,Bispebjerg Bakke 22,Halvtolv 19,None,N
+t430,Amalievej 1,Albaniensgade 4,None,N
+t335,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t154,Bispebjerg Bakke 22,Westend 8,None,N
+t183,Nesbyholmvej 1,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t524,Esthersvej 34,Orientkaj 4,None,N
+t58,Albaniensgade 4,Bygmestervej 59,4,Y
+t830,Egirsgade 65,Amalievej 1,None,N
+t336,Solvgade 11,Arne Jacobsens Alle 7,None,N
+t1334,Vigerslev Venge 60,Husumvej (overfor 131),None,N
+t979,Arne Jacobsens Alle 7,Nesbyholmvej 1,None,N
+t127,Bispebjerg Bakke 22,Amalievej 1,None,N
+t1186,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Bygmestervej 59,2,Y
+t114,Bispebjerg Bakke 22,Westend 8,None,N
+t608,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t419,Amalievej 1,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t748,Bygmestervej 59,Halvtolv 19,None,N
+t488,Esthersvej 34,Egirsgade 65,None,N
+t648,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t1204,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Westend 8,None,N
+t1542,Westend 8,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t13,Albaniensgade 4,Husumvej (overfor 131),None,N
+t1471,Westend 8,Dronninglundvej 12,None,N
+t287,Halvtolv 19,Drechselsgade 13,None,N
+t75,Albaniensgade 4,Westend 8,None,N
+t1300,Vigerslev Venge 60,Bygmestervej 59,None,N
+t370,Solvgade 11,Bygmestervej 59,None,N
+t640,Drechselsgade 13,Orientkaj 4,None,N
+t51,Albaniensgade 4,Esthersvej 34,None,N
+t994,Arne Jacobsens Alle 7,Bygmestervej 59,None,N
+t90,Bispebjerg Bakke 22,Esthersvej 34,None,N
+t779,Bygmestervej 59,Westend 8,None,N
+t177,Nesbyholmvej 1,Egirsgade 65,None,N
+t49,Albaniensgade 4,Amalievej 1,None,N
+t105,Bispebjerg Bakke 22,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t334,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t1266,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t353,Solvgade 11,Bispebjerg Bakke 22,None,N
+t1288,Vigerslev Venge 60,Halvtolv 19,None,N
+t317,Solvgade 11,Nesbyholmvej 1,None,N
+t1492,Westend 8,Orientkaj 4,None,N
+t999,Arne Jacobsens Alle 7,Borups Plads (overfor Stefansgade 73),None,N
+t689,Orientkaj 4,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t143,Bispebjerg Bakke 22,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1135,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Halvtolv 19,None,N
+t1242,Borgbjergsvej 43,Westend 8,None,N
+t1421,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t1145,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Drechselsgade 13,None,N
+t147,Bispebjerg Bakke 22,Borgbjergsvej 43,None,N
+t309,Halvtolv 19,Westend 8,None,N
+t623,Drechselsgade 13,Westend 8,None,N
+t1352,Vigerslev Venge 60,Borgbjergsvej 43,1,Y
+t578,Husumvej (overfor 131),Vigerslev Venge 60,None,N
+t1188,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Egirsgade 65,None,N
+t455,Amalievej 1,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1120,Frederik Vs Vej 13  (Rigshospital P huset),Borgbjergsvej 43,None,N
+t856,Egirsgade 65,Westend 8,1,Y
+t1269,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t637,Drechselsgade 13,Esthersvej 34,None,N
+t707,Orientkaj 4,Nesbyholmvej 1,None,N
+t668,Orientkaj 4,Nesbyholmvej 1,None,N
+t1343,Vigerslev Venge 60,Borups Plads (overfor Stefansgade 73),None,N
+t1362,Dronninglundvej 12,Bispebjerg Bakke 22,None,N
+t1369,Dronninglundvej 12,Amalievej 1,None,N
+t1114,Frederik Vs Vej 13  (Rigshospital P huset),Borups Plads (overfor Stefansgade 73),None,N
+t530,Esthersvej 34,Borups Plads (overfor Stefansgade 73),None,N
+t891,Egirsgade 65,Vigerslev Venge 60,None,N
+t814,Bygmestervej 59,Dronninglundvej 12,None,N
+t1448,Westend 8,Esthersvej 34,None,N
+t896,Egirsgade 65,Westend 8,None,N
+t1092,Frederik Vs Vej 13  (Rigshospital P huset),Albaniensgade 4,4,Y
+t1317,Vigerslev Venge 60,Westend 8,None,N
+t697,Orientkaj 4,Dronninglundvej 12,None,N
+t60,Albaniensgade 4,Egirsgade 65,None,N
+t312,Solvgade 11,Albaniensgade 4,None,N
+t1276,Borgbjergsvej 43,Dronninglundvej 12,None,N
+t333,Solvgade 11,Egirsgade 65,None,N
+t737,Orientkaj 4,Dronninglundvej 12,None,N
+t101,Bispebjerg Bakke 22,Borups Plads (overfor Stefansgade 73),None,N
+t766,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t1212,Borgbjergsvej 43,Halvtolv 19,None,N
+t714,Orientkaj 4,Esthersvej 34,None,N
+t1155,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t729,Orientkaj 4,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t635,Drechselsgade 13,Amalievej 1,None,N
+t28,Albaniensgade 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t185,Nesbyholmvej 1,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1126,Frederik Vs Vej 13  (Rigshospital P huset),Westend 8,None,N
+t509,Esthersvej 34,Bispebjerg Bakke 22,None,N
+t324,Solvgade 11,Esthersvej 34,None,N
+t1170,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Bispebjerg Bakke 22,1,Y
+t134,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t1327,Vigerslev Venge 60,Halvtolv 19,None,N
+t717,Orientkaj 4,Drechselsgade 13,None,N
+t53,Albaniensgade 4,Drechselsgade 13,2,Y
+t258,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t1221,Borgbjergsvej 43,Drechselsgade 13,None,N
+t299,Halvtolv 19,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t576,Husumvej (overfor 131),Borgbjergsvej 43,None,N
+t755,Bygmestervej 59,Husumvej (overfor 131),4,Y
+t266,Halvtolv 19,Vigerslev Venge 60,None,N
+t412,Amalievej 1,Borups Plads (overfor Stefansgade 73),None,N
+t677,Orientkaj 4,Husumvej (overfor 131),None,N
+t215,Nesbyholmvej 1,Egirsgade 65,None,N
+t369,Solvgade 11,Bygmestervej 59,None,N
+t586,Drechselsgade 13,Albaniensgade 4,3,Y
+t1298,Vigerslev Venge 60,Orientkaj 4,None,N
+t93,Bispebjerg Bakke 22,Drechselsgade 13,None,N
+t631,Drechselsgade 13,Halvtolv 19,None,N
+t836,Egirsgade 65,Orientkaj 4,None,N
+t749,Bygmestervej 59,Solvgade 11,None,N
+t297,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t706,Orientkaj 4,Nesbyholmvej 1,None,N
+t1302,Vigerslev Venge 60,Egirsgade 65,None,N
+t161,Nesbyholmvej 1,Halvtolv 19,None,N
+t1215,Borgbjergsvej 43,Amalievej 1,None,N
+t1340,Vigerslev Venge 60,Bygmestervej 59,None,N
+t81,Bispebjerg Bakke 22,Nesbyholmvej 1,None,N
+t603,Drechselsgade 13,Bygmestervej 59,None,N
+t1324,Vigerslev Venge 60,Nesbyholmvej 1,None,N
+t36,Albaniensgade 4,Westend 8,None,N
+t625,Drechselsgade 13,Albaniensgade 4,4,Y
+t1151,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Egirsgade 65,None,N
+t583,Husumvej (overfor 131),Westend 8,None,N
+t7,Albaniensgade 4,Solvgade 11,None,N
+t887,Egirsgade 65,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t691,Orientkaj 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),1,Y
+t1081,Frederik Vs Vej 13  (Rigshospital P huset),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t385,Solvgade 11,Dronninglundvej 12,None,N
+t1359,Dronninglundvej 12,Albaniensgade 4,None,N
+t243,Halvtolv 19,Amalievej 1,None,N
+t1440,Westend 8,Nesbyholmvej 1,None,N
+t476,Esthersvej 34,Solvgade 11,None,N
+t224,Nesbyholmvej 1,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1514,Westend 8,Albaniensgade 4,None,N
+t442,Amalievej 1,Husumvej (overfor 131),1,Y
+t865,Egirsgade 65,Halvtolv 19,None,N
+t1254,Borgbjergsvej 43,Amalievej 1,1,Y
+t9,Albaniensgade 4,Amalievej 1,None,N
+t268,Halvtolv 19,Dronninglundvej 12,None,N
+t911,Borups Plads (overfor Stefansgade 73),Husumvej (overfor 131),1,Y
+t542,Esthersvej 34,Dronninglundvej 12,None,N
+t405,Amalievej 1,Drechselsgade 13,None,N
+t954,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t526,Esthersvej 34,Bygmestervej 59,3,Y
+t948,Borups Plads (overfor Stefansgade 73),Esthersvej 34,None,N
+t811,Bygmestervej 59,Borgbjergsvej 43,None,N
+t527,Esthersvej 34,Egirsgade 65,None,N
+t342,Solvgade 11,Borgbjergsvej 43,None,N
+t1196,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borgbjergsvej 43,1,Y
+t923,Borups Plads (overfor Stefansgade 73),Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t590,Drechselsgade 13,Nesbyholmvej 1,None,N
+t1183,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Drechselsgade 13,None,N
+t64,Albaniensgade 4,Arne Jacobsens Alle 7,None,N
+t655,Drechselsgade 13,Borgbjergsvej 43,4,Y
+t1356,Vigerslev Venge 60,Westend 8,None,N
+t1375,Dronninglundvej 12,Drechselsgade 13,None,N
+t587,Drechselsgade 13,Bispebjerg Bakke 22,None,N
+t568,Husumvej (overfor 131),Borups Plads (overfor Stefansgade 73),None,N
+t585,Drechselsgade 13,Albaniensgade 4,None,N
+t804,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t167,Nesbyholmvej 1,Esthersvej 34,None,N
+t574,Husumvej (overfor 131),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t965,Borups Plads (overfor Stefansgade 73),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t734,Orientkaj 4,Vigerslev Venge 60,None,N
+t207,Nesbyholmvej 1,Esthersvej 34,None,N
+t209,Nesbyholmvej 1,Drechselsgade 13,None,N
+t1389,Dronninglundvej 12,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t933,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t1377,Dronninglundvej 12,Orientkaj 4,None,N
+t1176,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Solvgade 11,None,N
+t1426,Dronninglundvej 12,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t1481,Westend 8,Halvtolv 19,None,N
+t43,Albaniensgade 4,Nesbyholmvej 1,4,Y
+t386,Solvgade 11,Dronninglundvej 12,None,N
+t106,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t823,Egirsgade 65,Nesbyholmvej 1,None,N
+t1320,Vigerslev Venge 60,Albaniensgade 4,None,N
+t364,Solvgade 11,Husumvej (overfor 131),None,N
+t1265,Borgbjergsvej 43,Egirsgade 65,None,N
+t444,Amalievej 1,Drechselsgade 13,None,N
+t232,Nesbyholmvej 1,Westend 8,None,N
+t86,Bispebjerg Bakke 22,Solvgade 11,None,N
+t793,Bygmestervej 59,Esthersvej 34,None,N
+t277,Halvtolv 19,Nesbyholmvej 1,None,N
+t78,Bispebjerg Bakke 22,Albaniensgade 4,None,N
+t255,Halvtolv 19,Egirsgade 65,None,N
+t1425,Dronninglundvej 12,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1479,Westend 8,Nesbyholmvej 1,None,N
+t1102,Frederik Vs Vej 13  (Rigshospital P huset),Amalievej 1,None,N
+t572,Husumvej (overfor 131),Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t905,Borups Plads (overfor Stefansgade 73),Solvgade 11,None,N
+t837,Egirsgade 65,Orientkaj 4,None,N
+t847,Egirsgade 65,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t1286,Vigerslev Venge 60,Nesbyholmvej 1,None,N
+t1138,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Solvgade 11,None,N
+t1228,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t992,Arne Jacobsens Alle 7,Orientkaj 4,None,N
+t479,Esthersvej 34,Amalievej 1,None,N
+t423,Amalievej 1,Vigerslev Venge 60,1,Y
+t653,Drechselsgade 13,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1194,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1513,Westend 8,Albaniensgade 4,None,N
+t609,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t222,Nesbyholmvej 1,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1330,Vigerslev Venge 60,Amalievej 1,None,N
+t815,Bygmestervej 59,Dronninglundvej 12,None,N
+t634,Drechselsgade 13,Amalievej 1,None,N
+t1309,Vigerslev Venge 60,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1141,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Esthersvej 34,None,N
+t487,Esthersvej 34,Bygmestervej 59,None,N
+t769,Bygmestervej 59,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),3,Y
+t563,Husumvej (overfor 131),Orientkaj 4,None,N
+t853,Egirsgade 65,Dronninglundvej 12,None,N
+t1264,Borgbjergsvej 43,Egirsgade 65,None,N
+t391,Amalievej 1,Albaniensgade 4,4,Y
+t491,Esthersvej 34,Borups Plads (overfor Stefansgade 73),None,N
+t886,Egirsgade 65,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1282,Vigerslev Venge 60,Albaniensgade 4,1,Y
+t235,Halvtolv 19,Albaniensgade 4,None,N
+t497,Esthersvej 34,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t271,Halvtolv 19,Westend 8,None,N
+t712,Orientkaj 4,Amalievej 1,None,N
+t303,Halvtolv 19,Borgbjergsvej 43,None,N
+t227,Nesbyholmvej 1,Vigerslev Venge 60,None,N
+t1287,Vigerslev Venge 60,Halvtolv 19,None,N
+t315,Solvgade 11,Bispebjerg Bakke 22,None,N
+t685,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t247,Halvtolv 19,Husumvej (overfor 131),None,N
+t1290,Vigerslev Venge 60,Solvgade 11,None,N
+t35,Albaniensgade 4,Dronninglundvej 12,None,N
+t88,Bispebjerg Bakke 22,Amalievej 1,None,N
+t261,Halvtolv 19,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t169,Nesbyholmvej 1,Husumvej (overfor 131),2,Y
+t365,Solvgade 11,Drechselsgade 13,None,N
+t772,Bygmestervej 59,Borgbjergsvej 43,None,N
+t674,Orientkaj 4,Amalievej 1,None,N
+t575,Husumvej (overfor 131),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t460,Amalievej 1,Borgbjergsvej 43,4,Y
+t536,Esthersvej 34,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),3,Y
+t1417,Dronninglundvej 12,Bygmestervej 59,1,Y
+t945,Borups Plads (overfor Stefansgade 73),Solvgade 11,None,N
+t1216,Borgbjergsvej 43,Amalievej 1,None,N
+t1285,Vigerslev Venge 60,Nesbyholmvej 1,None,N
+t1422,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t903,Borups Plads (overfor Stefansgade 73),Halvtolv 19,None,N
+t1097,Frederik Vs Vej 13  (Rigshospital P huset),Halvtolv 19,None,N
+t1393,Dronninglundvej 12,Vigerslev Venge 60,None,N
+t703,Orientkaj 4,Albaniensgade 4,None,N
+t1385,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t293,Halvtolv 19,Egirsgade 65,4,Y
+t1299,Vigerslev Venge 60,Orientkaj 4,None,N
+t1519,Westend 8,Halvtolv 19,None,N
+t433,Amalievej 1,Nesbyholmvej 1,None,N
+t450,Amalievej 1,Egirsgade 65,None,N
+t844,Egirsgade 65,Arne Jacobsens Alle 7,None,N
+t55,Albaniensgade 4,Orientkaj 4,2,Y
+t806,Bygmestervej 59,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t383,Solvgade 11,Vigerslev Venge 60,None,N
+t716,Orientkaj 4,Husumvej (overfor 131),None,N
+t556,Husumvej (overfor 131),Amalievej 1,None,N
+t1169,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Bispebjerg Bakke 22,None,N
+t1256,Borgbjergsvej 43,Esthersvej 34,None,N
+t355,Solvgade 11,Nesbyholmvej 1,None,N
+t1121,Frederik Vs Vej 13  (Rigshospital P huset),Borgbjergsvej 43,None,N
+t146,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t1168,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Albaniensgade 4,4,Y
+t984,Arne Jacobsens Alle 7,Solvgade 11,None,N
+t1206,Borgbjergsvej 43,Albaniensgade 4,None,N
+t399,Amalievej 1,Solvgade 11,None,N
+t11,Albaniensgade 4,Esthersvej 34,4,Y
+t1386,Dronninglundvej 12,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t622,Drechselsgade 13,Westend 8,2,Y
+t1534,Westend 8,Egirsgade 65,None,N
+t470,Esthersvej 34,Bispebjerg Bakke 22,None,N
+t346,Solvgade 11,Dronninglundvej 12,None,N
+t516,Esthersvej 34,Solvgade 11,None,N
+t750,Bygmestervej 59,Solvgade 11,None,N
+t1539,Westend 8,Arne Jacobsens Alle 7,None,N
+t1107,Frederik Vs Vej 13  (Rigshospital P huset),Drechselsgade 13,None,N
+t1466,Westend 8,Borgbjergsvej 43,None,N
+t692,Orientkaj 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t682,Orientkaj 4,Bygmestervej 59,None,N
+t111,Bispebjerg Bakke 22,Vigerslev Venge 60,4,Y
+t726,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t407,Amalievej 1,Orientkaj 4,None,N
+t931,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,None,N
+t1497,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t869,Egirsgade 65,Amalievej 1,None,N
+t133,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t759,Bygmestervej 59,Orientkaj 4,None,N
+t1174,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Halvtolv 19,None,N
+t1423,Dronninglundvej 12,Arne Jacobsens Alle 7,1,Y
+t627,Drechselsgade 13,Bispebjerg Bakke 22,None,N
+t537,Esthersvej 34,Borgbjergsvej 43,None,N
+t1110,Frederik Vs Vej 13  (Rigshospital P huset),Bygmestervej 59,None,N
+t1332,Vigerslev Venge 60,Esthersvej 34,None,N
+t728,Orientkaj 4,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t952,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,1,Y
+t151,Bispebjerg Bakke 22,Dronninglundvej 12,None,N
+t331,Solvgade 11,Bygmestervej 59,None,N
+t1140,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Amalievej 1,None,N
+t1292,Vigerslev Venge 60,Amalievej 1,None,N
+t181,Nesbyholmvej 1,Arne Jacobsens Alle 7,None,N
+t1142,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Esthersvej 34,4,Y
+t253,Halvtolv 19,Bygmestervej 59,None,N
+t459,Amalievej 1,Borgbjergsvej 43,None,N
+t1248,Borgbjergsvej 43,Nesbyholmvej 1,None,N
+t198,Nesbyholmvej 1,Bispebjerg Bakke 22,None,N
+t211,Nesbyholmvej 1,Orientkaj 4,None,N
+t384,Solvgade 11,Vigerslev Venge 60,None,N
+t338,Solvgade 11,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1370,Dronninglundvej 12,Amalievej 1,1,Y
+t1218,Borgbjergsvej 43,Esthersvej 34,None,N
+t1372,Dronninglundvej 12,Esthersvej 34,None,N
+t1273,Borgbjergsvej 43,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t409,Amalievej 1,Bygmestervej 59,None,N
+t1368,Dronninglundvej 12,Solvgade 11,None,N
+t951,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,None,N
+t921,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t1430,Dronninglundvej 12,Vigerslev Venge 60,None,N
+t540,Esthersvej 34,Vigerslev Venge 60,None,N
+t1128,Frederik Vs Vej 13  (Rigshospital P huset),Westend 8,None,N
+t1441,Westend 8,Halvtolv 19,None,N
+t269,Halvtolv 19,Dronninglundvej 12,None,N
+t18,Albaniensgade 4,Bygmestervej 59,None,N
+t725,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t1193,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t1509,Westend 8,Dronninglundvej 12,None,N
+t947,Borups Plads (overfor Stefansgade 73),Amalievej 1,4,Y
+t1383,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t1477,Westend 8,Bispebjerg Bakke 22,None,N
+t1395,Dronninglundvej 12,Westend 8,None,N
+t231,Nesbyholmvej 1,Westend 8,2,Y
+t264,Halvtolv 19,Borgbjergsvej 43,None,N
+t1165,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Westend 8,4,Y
+t870,Egirsgade 65,Esthersvej 34,None,N
+t304,Halvtolv 19,Borgbjergsvej 43,1,Y
+t1507,Westend 8,Vigerslev Venge 60,None,N
+t381,Solvgade 11,Borgbjergsvej 43,None,N
+t1173,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Halvtolv 19,None,N
+t997,Arne Jacobsens Alle 7,Egirsgade 65,None,N
+t914,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t1270,Borgbjergsvej 43,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t895,Egirsgade 65,Westend 8,None,N
+t374,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t549,Husumvej (overfor 131),Bispebjerg Bakke 22,4,Y
+t502,Esthersvej 34,Dronninglundvej 12,None,N
+t193,Nesbyholmvej 1,Westend 8,None,N
+t38,Albaniensgade 4,Westend 8,None,N
+t352,Solvgade 11,Albaniensgade 4,None,N
+t1470,Westend 8,Dronninglundvej 12,None,N
+t1491,Westend 8,Orientkaj 4,None,N
+t504,Esthersvej 34,Westend 8,None,N
+t474,Esthersvej 34,Halvtolv 19,3,Y
+t687,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t993,Arne Jacobsens Alle 7,Orientkaj 4,None,N
+t1350,Vigerslev Venge 60,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t1303,Vigerslev Venge 60,Egirsgade 65,None,N
+t1480,Westend 8,Halvtolv 19,None,N
+t567,Husumvej (overfor 131),Egirsgade 65,None,N
+t1195,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t611,Drechselsgade 13,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t508,Esthersvej 34,Albaniensgade 4,None,N
+t768,Bygmestervej 59,Frederik Vs Vej 13  (Rigshospital P huset),2,Y
+t363,Solvgade 11,Esthersvej 34,None,N
+t604,Drechselsgade 13,Bygmestervej 59,None,N
+t360,Solvgade 11,Amalievej 1,None,N
+t1453,Westend 8,Orientkaj 4,None,N
+t650,Drechselsgade 13,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1504,Westend 8,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1306,Vigerslev Venge 60,Arne Jacobsens Alle 7,None,N
+t61,Albaniensgade 4,Borups Plads (overfor Stefansgade 73),None,N
+t14,Albaniensgade 4,Drechselsgade 13,None,N
+t1540,Westend 8,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1207,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t1478,Westend 8,Nesbyholmvej 1,None,N
+t1399,Dronninglundvej 12,Bispebjerg Bakke 22,2,Y
+t932,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,None,N
+t354,Solvgade 11,Bispebjerg Bakke 22,None,N
+t486,Esthersvej 34,Bygmestervej 59,None,N
+t1500,Westend 8,Arne Jacobsens Alle 7,None,N
+t644,Drechselsgade 13,Egirsgade 65,None,N
+t285,Halvtolv 19,Esthersvej 34,None,N
+t618,Drechselsgade 13,Vigerslev Venge 60,None,N
+t1104,Frederik Vs Vej 13  (Rigshospital P huset),Esthersvej 34,None,N
+t1468,Westend 8,Vigerslev Venge 60,None,N
+t74,Albaniensgade 4,Dronninglundvej 12,2,Y
+t286,Halvtolv 19,Husumvej (overfor 131),3,Y
+t1458,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t3,Albaniensgade 4,Nesbyholmvej 1,None,N
+t1420,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t1236,Borgbjergsvej 43,Vigerslev Venge 60,None,N
+t658,Drechselsgade 13,Dronninglundvej 12,None,N
+t404,Amalievej 1,Drechselsgade 13,None,N
+t1301,Vigerslev Venge 60,Bygmestervej 59,None,N
+t525,Esthersvej 34,Bygmestervej 59,1,Y
+t598,Drechselsgade 13,Esthersvej 34,None,N
+t125,Bispebjerg Bakke 22,Solvgade 11,None,N
+t855,Egirsgade 65,Westend 8,None,N
+t6,Albaniensgade 4,Halvtolv 19,None,N
+t1452,Westend 8,Orientkaj 4,1,Y
+t873,Egirsgade 65,Drechselsgade 13,None,N
+t1226,Borgbjergsvej 43,Egirsgade 65,None,N
+t858,Egirsgade 65,Albaniensgade 4,None,N
+t953,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t1231,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t1178,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Amalievej 1,3,Y
+t12,Albaniensgade 4,Esthersvej 34,None,N
+t1139,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Amalievej 1,4,Y
+t366,Solvgade 11,Drechselsgade 13,None,N
+t805,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t645,Drechselsgade 13,Egirsgade 65,None,N
+t1489,Westend 8,Drechselsgade 13,None,N
+t56,Albaniensgade 4,Orientkaj 4,3,Y
+t770,Bygmestervej 59,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),3,Y
+t260,Halvtolv 19,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t87,Bispebjerg Bakke 22,Amalievej 1,None,N
+t907,Borups Plads (overfor Stefansgade 73),Amalievej 1,None,N
+t66,Albaniensgade 4,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t206,Nesbyholmvej 1,Esthersvej 34,4,Y
+t1336,Vigerslev Venge 60,Drechselsgade 13,None,N
+t164,Nesbyholmvej 1,Solvgade 11,None,N
+t1223,Borgbjergsvej 43,Orientkaj 4,None,N
+t684,Orientkaj 4,Egirsgade 65,None,N
+t425,Amalievej 1,Dronninglundvej 12,2,Y
+t149,Bispebjerg Bakke 22,Vigerslev Venge 60,None,N
+t188,Nesbyholmvej 1,Vigerslev Venge 60,None,N
+t577,Husumvej (overfor 131),Borgbjergsvej 43,None,N
+t757,Bygmestervej 59,Drechselsgade 13,None,N
+t500,Esthersvej 34,Vigerslev Venge 60,None,N
+t1243,Borgbjergsvej 43,Albaniensgade 4,None,N
+t934,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t788,Bygmestervej 59,Solvgade 11,None,N
+t411,Amalievej 1,Egirsgade 65,None,N
+t1275,Borgbjergsvej 43,Vigerslev Venge 60,None,N
+t173,Nesbyholmvej 1,Orientkaj 4,None,N
+t52,Albaniensgade 4,Husumvej (overfor 131),4,Y
+t1224,Borgbjergsvej 43,Bygmestervej 59,None,N
+t1467,Westend 8,Borgbjergsvej 43,1,Y
+t33,Albaniensgade 4,Vigerslev Venge 60,None,N
+t265,Halvtolv 19,Borgbjergsvej 43,None,N
+t1311,Vigerslev Venge 60,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t390,Amalievej 1,Albaniensgade 4,None,N
+t180,Nesbyholmvej 1,Arne Jacobsens Alle 7,None,N
+t532,Esthersvej 34,Arne Jacobsens Alle 7,None,N
+t700,Orientkaj 4,Westend 8,None,N
+t888,Egirsgade 65,Borgbjergsvej 43,None,N
+t1319,Vigerslev Venge 60,Westend 8,None,N
+t327,Solvgade 11,Drechselsgade 13,None,N
+t909,Borups Plads (overfor Stefansgade 73),Esthersvej 34,None,N
+t520,Esthersvej 34,Husumvej (overfor 131),None,N
+t1366,Dronninglundvej 12,Halvtolv 19,None,N
+t517,Esthersvej 34,Amalievej 1,None,N
+t915,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t753,Bygmestervej 59,Esthersvej 34,None,N
+vehicle_id,loc_css
+sv0,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv1,Orientkaj 4
+sv2,Bygmestervej 59
+sv3,Halvtolv 19
+sv4,Bygmestervej 59
+sv5,Halvtolv 19
+sv6,Orientkaj 4
+sv7,Frederik Vs Vej 13  (Rigshospital P huset)
+sv8,Dronninglundvej 12
+sv9,Bygmestervej 59
+sv10,Drechselsgade 13
+sv11,Drechselsgade 13
+sv12,Dronninglundvej 12
+sv13,Westend 8
+sv14,Egirsgade 65
+sv15,Bygmestervej 59
+sv16,Orientkaj 4
+sv17,Amalievej 1
+sv18,Nesbyholmvej 1
+sv19,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv20,Drechselsgade 13
+sv21,Drechselsgade 13
+sv22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv23,Westend 8
+sv24,Orientkaj 4
+sv25,Albaniensgade 4
+sv26,Bygmestervej 59
+sv27,Albaniensgade 4
+sv28,Orientkaj 4
+sv29,Bispebjerg Bakke 22
+sv30,Drechselsgade 13
+sv31,Egirsgade 65
+sv32,Amalievej 1
+sv33,Borups Plads (overfor Stefansgade 73)
+sv34,Nesbyholmvej 1
+sv35,Westend 8
+sv36,Drechselsgade 13
+sv37,Vigerslev Venge 60
+sv38,Esthersvej 34
+sv39,Bispebjerg Bakke 22
+sv40,Amalievej 1
+sv41,Bispebjerg Bakke 22
+sv42,Borups Plads (overfor Stefansgade 73)
+sv43,Albaniensgade 4
+sv44,Bygmestervej 59
+sv45,Borups Plads (overfor Stefansgade 73)
+sv46,Bygmestervej 59
+sv47,Albaniensgade 4
+sv48,Frederik Vs Vej 13  (Rigshospital P huset)
+sv49,Nesbyholmvej 1
+sv50,Dronninglundvej 12
+sv51,Bispebjerg Bakke 22
+sv52,Arne Jacobsens Alle 7
+sv53,Nesbyholmvej 1
+sv54,Vigerslev Venge 60
+sv55,Borups Plads (overfor Stefansgade 73)
+sv56,Orientkaj 4
+sv57,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv58,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv59,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv60,Borgbjergsvej 43
+sv61,Bispebjerg Bakke 22
+sv62,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv63,Nesbyholmvej 1
+sv64,Borgbjergsvej 43
+sv65,Westend 8
+sv66,Nesbyholmvej 1
+sv67,Husumvej (overfor 131)
+sv68,Husumvej (overfor 131)
+sv69,Albaniensgade 4
+sv70,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv71,Husumvej (overfor 131)
+sv72,Arne Jacobsens Alle 7
+sv73,Borups Plads (overfor Stefansgade 73)
+sv74,Drechselsgade 13
+sv75,Frederik Vs Vej 13  (Rigshospital P huset)
+sv76,Halvtolv 19
+sv77,Bygmestervej 59
+sv78,Borgbjergsvej 43
+sv79,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv80,Vigerslev Venge 60
+sv81,Bispebjerg Bakke 22
+sv82,Bispebjerg Bakke 22
+sv83,Husumvej (overfor 131)
+sv84,Nesbyholmvej 1
+sv85,Bygmestervej 59
+sv86,Westend 8
+sv87,Halvtolv 19
+sv88,Esthersvej 34
+sv89,Orientkaj 4
+sv90,Bispebjerg Bakke 22
+sv91,Albaniensgade 4
+sv92,Bispebjerg Bakke 22
+sv93,Frederik Vs Vej 13  (Rigshospital P huset)
+sv94,Esthersvej 34
+sv95,Albaniensgade 4
+sv96,Esthersvej 34
+sv97,Vigerslev Venge 60
+sv98,Dronninglundvej 12
+sv99,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv100,Westend 8
+sv101,Borgbjergsvej 43
+sv102,Halvtolv 19
+sv103,Borups Plads (overfor Stefansgade 73)
+sv104,Albaniensgade 4
+sv105,Egirsgade 65
+sv106,Esthersvej 34
+sv107,Albaniensgade 4
+sv108,Egirsgade 65
+sv109,Esthersvej 34
+sv110,Esthersvej 34
+sv111,Albaniensgade 4
+sv112,Albaniensgade 4
+sv113,Borgbjergsvej 43
+sv114,Vigerslev Venge 60
+sv115,Borups Plads (overfor Stefansgade 73)
+sv116,Bispebjerg Bakke 22
+sv117,Drechselsgade 13
+sv118,Solvgade 11
+sv119,Dronninglundvej 12
+sv120,Orientkaj 4
+sv121,Amalievej 1
+sv122,Westend 8
+sv123,Bispebjerg Bakke 22
+sv124,Bispebjerg Bakke 22
+sv125,Borups Plads (overfor Stefansgade 73)
+sv126,Esthersvej 34
+sv127,Husumvej (overfor 131)
+sv128,Vigerslev Venge 60
+sv129,Halvtolv 19
+sv130,Drechselsgade 13
+sv131,Westend 8
+sv132,Husumvej (overfor 131)
+sv133,Bispebjerg Bakke 22
+sv134,Halvtolv 19
+sv135,Borups Plads (overfor Stefansgade 73)
+sv136,Dronninglundvej 12
+sv137,Albaniensgade 4
+sv138,Borgbjergsvej 43
+sv139,Husumvej (overfor 131)
+sv140,Drechselsgade 13
+sv141,Husumvej (overfor 131)
+sv142,Nesbyholmvej 1
+sv143,Bygmestervej 59
+sv144,Borups Plads (overfor Stefansgade 73)
+sv145,Orientkaj 4
+sv146,Bygmestervej 59
+sv147,Nesbyholmvej 1
+sv148,Amalievej 1
+sv149,Bygmestervej 59
+sv150,Nesbyholmvej 1
+sv151,Drechselsgade 13
+sv152,Vigerslev Venge 60
+sv153,Drechselsgade 13
+sv154,Nesbyholmvej 1
+sv155,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv156,Albaniensgade 4
+sv157,Halvtolv 19
+sv158,Frederik Vs Vej 13  (Rigshospital P huset)
+sv159,Drechselsgade 13
+sv160,Bygmestervej 59
+sv161,Esthersvej 34
+sv162,Albaniensgade 4
+sv163,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv164,Amalievej 1
+sv165,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv166,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv167,Dronninglundvej 12
+sv168,Dronninglundvej 12
+sv169,Albaniensgade 4
+sv170,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv171,Westend 8
+sv172,Dronninglundvej 12
+sv173,Nesbyholmvej 1
+sv174,Egirsgade 65
+sv175,Husumvej (overfor 131)
+sv176,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv177,Husumvej (overfor 131)
+sv178,Esthersvej 34
+sv179,Dronninglundvej 12
+sv180,Drechselsgade 13
+sv181,Albaniensgade 4
+sv182,Bygmestervej 59
+sv183,Drechselsgade 13
+sv184,Frederik Vs Vej 13  (Rigshospital P huset)
+sv185,Esthersvej 34
+sv186,Husumvej (overfor 131)
+sv187,Nesbyholmvej 1
+sv188,Orientkaj 4
+sv189,Bygmestervej 59
+sv190,Bispebjerg Bakke 22
+sv191,Amalievej 1
+sv192,Arne Jacobsens Alle 7
+sv193,Bygmestervej 59
+sv194,Nesbyholmvej 1
+sv195,Vigerslev Venge 60
+sv196,Albaniensgade 4
+sv197,Orientkaj 4
+sv198,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv199,Vigerslev Venge 60
+sv200,Orientkaj 4
+sv201,Halvtolv 19
+sv202,Dronninglundvej 12
+sv203,Esthersvej 34
+sv204,Halvtolv 19
+sv205,Nesbyholmvej 1
+sv206,Esthersvej 34
+sv207,Bygmestervej 59
+sv208,Bispebjerg Bakke 22
+sv209,Westend 8
+sv210,Drechselsgade 13
+sv211,Nesbyholmvej 1
+sv212,Albaniensgade 4
+sv213,Nesbyholmvej 1
+sv214,Drechselsgade 13
+sv215,Albaniensgade 4
+sv216,Westend 8
+sv217,Drechselsgade 13
+sv218,Albaniensgade 4
+sv219,Bygmestervej 59
+sv220,Bygmestervej 59
+sv221,Esthersvej 34
+sv222,Esthersvej 34
+sv223,Halvtolv 19
+sv224,Egirsgade 65
+sv225,Dronninglundvej 12
+sv226,Husumvej (overfor 131)
+sv227,Halvtolv 19
+sv228,Drechselsgade 13
+sv229,Vigerslev Venge 60
+sv230,Bygmestervej 59
+sv231,Egirsgade 65
+sv232,Frederik Vs Vej 13  (Rigshospital P huset)
+sv233,Borups Plads (overfor Stefansgade 73)
+sv234,Drechselsgade 13
+sv235,Esthersvej 34
+sv236,Halvtolv 19
+sv237,Westend 8
+sv238,Orientkaj 4
+sv239,Borups Plads (overfor Stefansgade 73)
+sv240,Dronninglundvej 12
+sv241,Frederik Vs Vej 13  (Rigshospital P huset)
+sv242,Amalievej 1
+sv243,Drechselsgade 13
+sv244,Halvtolv 19
+sv245,Amalievej 1
+sv246,Halvtolv 19
+sv247,Amalievej 1
+sv248,Vigerslev Venge 60
+sv249,Nesbyholmvej 1
+sv250,Esthersvej 34
+sv251,Orientkaj 4
+sv252,Orientkaj 4
+sv253,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv254,Egirsgade 65
+sv255,Albaniensgade 4
+sv256,Arne Jacobsens Alle 7
+sv257,Nesbyholmvej 1
+sv258,Nesbyholmvej 1
+sv259,Bispebjerg Bakke 22
+sv260,Halvtolv 19
+sv261,Egirsgade 65
+sv262,Albaniensgade 4
+sv263,Husumvej (overfor 131)
+sv264,Dronninglundvej 12
+sv265,Vigerslev Venge 60
+sv266,Albaniensgade 4
+sv267,Vigerslev Venge 60
+sv268,Egirsgade 65
+sv269,Borups Plads (overfor Stefansgade 73)
+sv270,Dronninglundvej 12
+sv271,Frederik Vs Vej 13  (Rigshospital P huset)
+sv272,Vigerslev Venge 60
+sv273,Husumvej (overfor 131)
+sv274,Nesbyholmvej 1
+sv275,Borgbjergsvej 43
+sv276,Dronninglundvej 12
+sv277,Westend 8
+sv278,Vigerslev Venge 60
+sv279,Nesbyholmvej 1
+sv280,Arne Jacobsens Alle 7
+sv281,Orientkaj 4
+sv282,Vigerslev Venge 60
+sv283,Nesbyholmvej 1
+sv284,Albaniensgade 4
+sv285,Orientkaj 4
+sv286,Borups Plads (overfor Stefansgade 73)
+sv287,Borgbjergsvej 43
+sv288,Solvgade 11
+sv289,Amalievej 1
+sv290,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv291,Bispebjerg Bakke 22
+sv292,Bispebjerg Bakke 22
+sv293,Amalievej 1
+sv294,Husumvej (overfor 131)
+sv295,Bygmestervej 59
+sv296,Drechselsgade 13
+sv297,Westend 8
+sv298,Orientkaj 4
+sv299,Solvgade 11

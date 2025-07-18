@@ -1,0 +1,127 @@
+traveller_id,cus_o,cus_d,highest_pl,whether_request
+t211,Nesbyholmvej 1,Orientkaj 4,None,N
+t1208,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t1239,Borgbjergsvej 43,Dronninglundvej 12,2,Y
+t941,Borups Plads (overfor Stefansgade 73),Nesbyholmvej 1,None,N
+t515,Esthersvej 34,Solvgade 11,None,N
+t672,Orientkaj 4,Solvgade 11,1,Y
+t679,Orientkaj 4,Drechselsgade 13,None,N
+t1425,Dronninglundvej 12,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t953,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t1406,Dronninglundvej 12,Solvgade 11,None,N
+t89,Bispebjerg Bakke 22,Esthersvej 34,None,N
+t524,Esthersvej 34,Orientkaj 4,None,N
+t1374,Dronninglundvej 12,Drechselsgade 13,None,N
+t612,Drechselsgade 13,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t368,Solvgade 11,Orientkaj 4,None,N
+t484,Esthersvej 34,Orientkaj 4,None,N
+t366,Solvgade 11,Drechselsgade 13,None,N
+t92,Bispebjerg Bakke 22,Drechselsgade 13,None,N
+t705,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1124,Frederik Vs Vej 13  (Rigshospital P huset),Dronninglundvej 12,None,N
+t1095,Frederik Vs Vej 13  (Rigshospital P huset),Nesbyholmvej 1,None,N
+t647,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t1270,Borgbjergsvej 43,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t736,Orientkaj 4,Dronninglundvej 12,None,N
+t120,Bispebjerg Bakke 22,Nesbyholmvej 1,None,N
+t1375,Dronninglundvej 12,Drechselsgade 13,None,N
+t101,Bispebjerg Bakke 22,Borups Plads (overfor Stefansgade 73),1,Y
+t373,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t1276,Borgbjergsvej 43,Dronninglundvej 12,None,N
+t902,Borups Plads (overfor Stefansgade 73),Nesbyholmvej 1,None,N
+t628,Drechselsgade 13,Nesbyholmvej 1,None,N
+t212,Nesbyholmvej 1,Orientkaj 4,None,N
+t367,Solvgade 11,Orientkaj 4,None,N
+t485,Esthersvej 34,Orientkaj 4,None,N
+t476,Esthersvej 34,Solvgade 11,None,N
+t356,Solvgade 11,Nesbyholmvej 1,None,N
+t952,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,3,Y
+t909,Borups Plads (overfor Stefansgade 73),Esthersvej 34,None,N
+t666,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1261,Borgbjergsvej 43,Orientkaj 4,None,N
+t594,Drechselsgade 13,Solvgade 11,None,N
+t104,Bispebjerg Bakke 22,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t134,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t637,Drechselsgade 13,Esthersvej 34,None,N
+t1429,Dronninglundvej 12,Borgbjergsvej 43,2,Y
+t1106,Frederik Vs Vej 13  (Rigshospital P huset),Drechselsgade 13,None,N
+t140,Bispebjerg Bakke 22,Borups Plads (overfor Stefansgade 73),None,N
+t1386,Dronninglundvej 12,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t495,Esthersvej 34,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t541,Esthersvej 34,Dronninglundvej 12,None,N
+t346,Solvgade 11,Dronninglundvej 12,None,N
+t945,Borups Plads (overfor Stefansgade 73),Solvgade 11,None,N
+t1412,Dronninglundvej 12,Drechselsgade 13,4,Y
+t1400,Dronninglundvej 12,Bispebjerg Bakke 22,4,Y
+t530,Esthersvej 34,Borups Plads (overfor Stefansgade 73),None,N
+t1410,Dronninglundvej 12,Esthersvej 34,None,N
+t671,Orientkaj 4,Solvgade 11,None,N
+t315,Solvgade 11,Bispebjerg Bakke 22,None,N
+t329,Solvgade 11,Orientkaj 4,None,N
+t1086,Frederik Vs Vej 13  (Rigshospital P huset),Dronninglundvej 12,None,N
+t704,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1271,Borgbjergsvej 43,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t374,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t1252,Borgbjergsvej 43,Solvgade 11,None,N
+t667,Orientkaj 4,Nesbyholmvej 1,None,N
+t483,Esthersvej 34,Drechselsgade 13,None,N
+t108,Bispebjerg Bakke 22,Borgbjergsvej 43,None,N
+t1428,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t382,Solvgade 11,Borgbjergsvej 43,None,N
+t710,Orientkaj 4,Solvgade 11,None,N
+t198,Nesbyholmvej 1,Bispebjerg Bakke 22,None,N
+t95,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t646,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),4,Y
+t112,Bispebjerg Bakke 22,Dronninglundvej 12,None,N
+t81,Bispebjerg Bakke 22,Nesbyholmvej 1,None,N
+t619,Drechselsgade 13,Dronninglundvej 12,None,N
+t538,Esthersvej 34,Borgbjergsvej 43,4,Y
+t225,Nesbyholmvej 1,Borgbjergsvej 43,None,N
+t593,Drechselsgade 13,Solvgade 11,None,N
+t1210,Borgbjergsvej 43,Nesbyholmvej 1,None,N
+t694,Orientkaj 4,Borgbjergsvej 43,None,N
+t326,Solvgade 11,Drechselsgade 13,None,N
+t949,Borups Plads (overfor Stefansgade 73),Esthersvej 34,None,N
+t498,Esthersvej 34,Borgbjergsvej 43,None,N
+t168,Nesbyholmvej 1,Esthersvej 34,None,N
+t522,Esthersvej 34,Drechselsgade 13,None,N
+t1221,Borgbjergsvej 43,Drechselsgade 13,None,N
+t611,Drechselsgade 13,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t954,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t1233,Borgbjergsvej 43,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t164,Nesbyholmvej 1,Solvgade 11,None,N
+t697,Orientkaj 4,Dronninglundvej 12,None,N
+t342,Solvgade 11,Borgbjergsvej 43,None,N
+t521,Esthersvej 34,Drechselsgade 13,4,Y
+t651,Drechselsgade 13,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t1390,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t113,Bispebjerg Bakke 22,Dronninglundvej 12,None,N
+t1096,Frederik Vs Vej 13  (Rigshospital P huset),Nesbyholmvej 1,None,N
+t1387,Dronninglundvej 12,Frederik Vs Vej 13  (Rigshospital P huset),None,N
+t365,Solvgade 11,Drechselsgade 13,None,N
+vehicle_id,loc_css
+sv0,Dronninglundvej 12
+sv1,Bispebjerg Bakke 22
+sv2,Husumvej (overfor 131)
+sv3,Orientkaj 4
+sv4,Esthersvej 34
+sv5,Solvgade 11
+sv6,Bygmestervej 59
+sv7,Drechselsgade 13
+sv8,Borgbjergsvej 43
+sv9,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv10,Esthersvej 34
+sv11,Borups Plads (overfor Stefansgade 73)
+sv12,Dronninglundvej 12
+sv13,Albaniensgade 4
+sv14,Dronninglundvej 12
+sv15,Dronninglundvej 12
+sv16,Egirsgade 65
+sv17,Orientkaj 4
+sv18,Borups Plads (overfor Stefansgade 73)
+sv19,Drechselsgade 13
+sv20,Bispebjerg Bakke 22
+sv21,Dronninglundvej 12
+sv22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv23,Dronninglundvej 12
+sv24,Borups Plads (overfor Stefansgade 73)

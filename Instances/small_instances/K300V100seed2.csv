@@ -1,0 +1,402 @@
+traveller_id,cus_o,cus_d,highest_pl,whether_request
+t460,Amalievej 1,Borgbjergsvej 43,None,N
+t1506,Westend 8,Borgbjergsvej 43,3,Y
+t283,Halvtolv 19,Amalievej 1,None,N
+t648,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t951,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,3,Y
+t463,Amalievej 1,Dronninglundvej 12,1,Y
+t928,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,None,N
+t1538,Westend 8,Arne Jacobsens Alle 7,None,N
+t673,Orientkaj 4,Amalievej 1,None,N
+t908,Borups Plads (overfor Stefansgade 73),Amalievej 1,None,N
+t1536,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t814,Bygmestervej 59,Dronninglundvej 12,None,N
+t795,Bygmestervej 59,Drechselsgade 13,None,N
+t253,Halvtolv 19,Bygmestervej 59,None,N
+t787,Bygmestervej 59,Halvtolv 19,None,N
+t990,Arne Jacobsens Alle 7,Drechselsgade 13,None,N
+t798,Bygmestervej 59,Orientkaj 4,None,N
+t986,Arne Jacobsens Alle 7,Amalievej 1,None,N
+t907,Borups Plads (overfor Stefansgade 73),Amalievej 1,None,N
+t1548,Westend 8,Dronninglundvej 12,None,N
+t290,Halvtolv 19,Orientkaj 4,None,N
+t641,Drechselsgade 13,Orientkaj 4,4,Y
+t1412,Dronninglundvej 12,Drechselsgade 13,None,N
+t1211,Borgbjergsvej 43,Halvtolv 19,None,N
+t291,Halvtolv 19,Bygmestervej 59,None,N
+t1239,Borgbjergsvej 43,Dronninglundvej 12,1,Y
+t630,Drechselsgade 13,Halvtolv 19,None,N
+t737,Orientkaj 4,Dronninglundvej 12,None,N
+t679,Orientkaj 4,Drechselsgade 13,None,N
+t738,Orientkaj 4,Westend 8,None,N
+t271,Halvtolv 19,Westend 8,None,N
+t1404,Dronninglundvej 12,Halvtolv 19,None,N
+t298,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t1413,Dronninglundvej 12,Drechselsgade 13,None,N
+t972,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t765,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t772,Bygmestervej 59,Borgbjergsvej 43,1,Y
+t1263,Borgbjergsvej 43,Bygmestervej 59,1,Y
+t249,Halvtolv 19,Drechselsgade 13,None,N
+t1378,Dronninglundvej 12,Bygmestervej 59,None,N
+t960,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t464,Amalievej 1,Dronninglundvej 12,None,N
+t649,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t758,Bygmestervej 59,Orientkaj 4,None,N
+t912,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,None,N
+t1530,Westend 8,Orientkaj 4,None,N
+t804,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t1215,Borgbjergsvej 43,Amalievej 1,4,Y
+t748,Bygmestervej 59,Halvtolv 19,None,N
+t1390,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t264,Halvtolv 19,Borgbjergsvej 43,None,N
+t265,Halvtolv 19,Borgbjergsvej 43,None,N
+t459,Amalievej 1,Borgbjergsvej 43,4,Y
+t604,Drechselsgade 13,Bygmestervej 59,None,N
+t436,Amalievej 1,Halvtolv 19,None,N
+t454,Amalievej 1,Arne Jacobsens Alle 7,None,N
+t661,Drechselsgade 13,Westend 8,None,N
+t297,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t1421,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),1,Y
+t1221,Borgbjergsvej 43,Drechselsgade 13,4,Y
+t1230,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t647,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t1240,Borgbjergsvej 43,Westend 8,None,N
+t766,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t1416,Dronninglundvej 12,Bygmestervej 59,4,Y
+t757,Bygmestervej 59,Drechselsgade 13,3,Y
+t309,Halvtolv 19,Westend 8,None,N
+t1223,Borgbjergsvej 43,Orientkaj 4,4,Y
+t591,Drechselsgade 13,Halvtolv 19,None,N
+t258,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t971,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,2,Y
+t1268,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t778,Bygmestervej 59,Westend 8,4,Y
+t1467,Westend 8,Borgbjergsvej 43,1,Y
+t751,Bygmestervej 59,Amalievej 1,3,Y
+t619,Drechselsgade 13,Dronninglundvej 12,None,N
+t1395,Dronninglundvej 12,Westend 8,None,N
+t1382,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t1528,Westend 8,Drechselsgade 13,None,N
+t1470,Westend 8,Dronninglundvej 12,1,Y
+t998,Arne Jacobsens Alle 7,Borups Plads (overfor Stefansgade 73),None,N
+t447,Amalievej 1,Bygmestervej 59,1,Y
+t775,Bygmestervej 59,Dronninglundvej 12,1,Y
+t1269,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t1442,Westend 8,Halvtolv 19,None,N
+t993,Arne Jacobsens Alle 7,Orientkaj 4,None,N
+t405,Amalievej 1,Drechselsgade 13,1,Y
+t259,Halvtolv 19,Arne Jacobsens Alle 7,None,N
+t974,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t1432,Dronninglundvej 12,Westend 8,None,N
+t425,Amalievej 1,Dronninglundvej 12,4,Y
+t810,Bygmestervej 59,Borgbjergsvej 43,None,N
+t688,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t1499,Westend 8,Arne Jacobsens Alle 7,None,N
+t1429,Dronninglundvej 12,Borgbjergsvej 43,4,Y
+t934,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t954,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t248,Halvtolv 19,Drechselsgade 13,None,N
+t961,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t682,Orientkaj 4,Bygmestervej 59,None,N
+t1369,Dronninglundvej 12,Amalievej 1,None,N
+t601,Drechselsgade 13,Orientkaj 4,3,Y
+t1493,Westend 8,Bygmestervej 59,2,Y
+t634,Drechselsgade 13,Amalievej 1,None,N
+t946,Borups Plads (overfor Stefansgade 73),Amalievej 1,3,Y
+t1458,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t1396,Dronninglundvej 12,Westend 8,None,N
+t708,Orientkaj 4,Halvtolv 19,None,N
+t289,Halvtolv 19,Orientkaj 4,None,N
+t296,Halvtolv 19,Borups Plads (overfor Stefansgade 73),None,N
+t913,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,1,Y
+t818,Bygmestervej 59,Westend 8,None,N
+t966,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,2,Y
+t712,Orientkaj 4,Amalievej 1,None,N
+t904,Borups Plads (overfor Stefansgade 73),Halvtolv 19,None,N
+t397,Amalievej 1,Halvtolv 19,None,N
+t1377,Dronninglundvej 12,Orientkaj 4,None,N
+t718,Orientkaj 4,Drechselsgade 13,None,N
+t1417,Dronninglundvej 12,Bygmestervej 59,None,N
+t932,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,3,Y
+t435,Amalievej 1,Halvtolv 19,None,N
+t250,Halvtolv 19,Orientkaj 4,None,N
+t1365,Dronninglundvej 12,Halvtolv 19,None,N
+t659,Drechselsgade 13,Dronninglundvej 12,None,N
+t1376,Dronninglundvej 12,Orientkaj 4,None,N
+t709,Orientkaj 4,Halvtolv 19,None,N
+t759,Bygmestervej 59,Orientkaj 4,None,N
+t947,Borups Plads (overfor Stefansgade 73),Amalievej 1,2,Y
+t620,Drechselsgade 13,Dronninglundvej 12,None,N
+t252,Halvtolv 19,Bygmestervej 59,1,Y
+t816,Bygmestervej 59,Westend 8,None,N
+t903,Borups Plads (overfor Stefansgade 73),Halvtolv 19,None,N
+t1241,Borgbjergsvej 43,Westend 8,None,N
+t1423,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t592,Drechselsgade 13,Halvtolv 19,None,N
+t811,Bygmestervej 59,Borgbjergsvej 43,None,N
+t1492,Westend 8,Orientkaj 4,None,N
+t622,Drechselsgade 13,Westend 8,None,N
+t453,Amalievej 1,Arne Jacobsens Alle 7,None,N
+t268,Halvtolv 19,Dronninglundvej 12,None,N
+t1370,Dronninglundvej 12,Amalievej 1,None,N
+t1533,Westend 8,Bygmestervej 59,None,N
+t272,Halvtolv 19,Westend 8,None,N
+t1374,Dronninglundvej 12,Drechselsgade 13,2,Y
+t815,Bygmestervej 59,Dronninglundvej 12,None,N
+t1394,Dronninglundvej 12,Westend 8,None,N
+t933,Borups Plads (overfor Stefansgade 73),Westend 8,None,N
+t658,Drechselsgade 13,Dronninglundvej 12,None,N
+t1385,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t1276,Borgbjergsvej 43,Dronninglundvej 12,None,N
+t694,Orientkaj 4,Borgbjergsvej 43,4,Y
+t1461,Westend 8,Arne Jacobsens Alle 7,None,N
+t740,Orientkaj 4,Westend 8,None,N
+t779,Bygmestervej 59,Westend 8,2,Y
+t408,Amalievej 1,Bygmestervej 59,None,N
+t681,Orientkaj 4,Bygmestervej 59,None,N
+t724,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t736,Orientkaj 4,Dronninglundvej 12,None,N
+t640,Drechselsgade 13,Orientkaj 4,None,N
+t654,Drechselsgade 13,Borgbjergsvej 43,1,Y
+t721,Orientkaj 4,Bygmestervej 59,None,N
+t251,Halvtolv 19,Orientkaj 4,None,N
+t922,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t717,Orientkaj 4,Drechselsgade 13,None,N
+t608,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t771,Bygmestervej 59,Borgbjergsvej 43,None,N
+t685,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t982,Arne Jacobsens Alle 7,Halvtolv 19,None,N
+t1228,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t687,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t1509,Westend 8,Dronninglundvej 12,None,N
+t1451,Westend 8,Drechselsgade 13,2,Y
+t1229,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t1498,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t1225,Borgbjergsvej 43,Bygmestervej 59,None,N
+t927,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,None,N
+t631,Drechselsgade 13,Halvtolv 19,None,N
+t1452,Westend 8,Orientkaj 4,None,N
+t1500,Westend 8,Arne Jacobsens Alle 7,None,N
+t790,Bygmestervej 59,Amalievej 1,None,N
+t1216,Borgbjergsvej 43,Amalievej 1,None,N
+t257,Halvtolv 19,Borups Plads (overfor Stefansgade 73),None,N
+t311,Halvtolv 19,Westend 8,None,N
+t1544,Westend 8,Borgbjergsvej 43,None,N
+t409,Amalievej 1,Bygmestervej 59,None,N
+t1481,Westend 8,Halvtolv 19,None,N
+t1212,Borgbjergsvej 43,Halvtolv 19,None,N
+t1407,Dronninglundvej 12,Amalievej 1,1,Y
+t1539,Westend 8,Arne Jacobsens Alle 7,None,N
+t1277,Borgbjergsvej 43,Dronninglundvej 12,4,Y
+t414,Amalievej 1,Arne Jacobsens Alle 7,None,N
+t406,Amalievej 1,Orientkaj 4,None,N
+t1519,Westend 8,Halvtolv 19,None,N
+t777,Bygmestervej 59,Westend 8,1,Y
+t444,Amalievej 1,Drechselsgade 13,2,Y
+t791,Bygmestervej 59,Amalievej 1,None,N
+t747,Bygmestervej 59,Halvtolv 19,None,N
+t698,Orientkaj 4,Dronninglundvej 12,None,N
+t985,Arne Jacobsens Alle 7,Amalievej 1,None,N
+t660,Drechselsgade 13,Westend 8,3,Y
+t1466,Westend 8,Borgbjergsvej 43,None,N
+t1249,Borgbjergsvej 43,Halvtolv 19,None,N
+t1259,Borgbjergsvej 43,Drechselsgade 13,3,Y
+t1375,Dronninglundvej 12,Drechselsgade 13,None,N
+t943,Borups Plads (overfor Stefansgade 73),Halvtolv 19,None,N
+t994,Arne Jacobsens Alle 7,Bygmestervej 59,None,N
+t244,Halvtolv 19,Amalievej 1,None,N
+t733,Orientkaj 4,Borgbjergsvej 43,4,Y
+t678,Orientkaj 4,Drechselsgade 13,None,N
+t1489,Westend 8,Drechselsgade 13,None,N
+t1408,Dronninglundvej 12,Amalievej 1,3,Y
+t669,Orientkaj 4,Halvtolv 19,None,N
+t256,Halvtolv 19,Borups Plads (overfor Stefansgade 73),None,N
+t1391,Dronninglundvej 12,Borgbjergsvej 43,2,Y
+t1494,Westend 8,Bygmestervej 59,None,N
+t1261,Borgbjergsvej 43,Orientkaj 4,None,N
+t1471,Westend 8,Dronninglundvej 12,None,N
+t931,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,None,N
+t1242,Borgbjergsvej 43,Westend 8,None,N
+t287,Halvtolv 19,Drechselsgade 13,None,N
+t1491,Westend 8,Orientkaj 4,None,N
+t805,Bygmestervej 59,Arne Jacobsens Alle 7,None,N
+t1480,Westend 8,Halvtolv 19,None,N
+t1383,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),1,Y
+t693,Orientkaj 4,Borgbjergsvej 43,4,Y
+t304,Halvtolv 19,Borgbjergsvej 43,None,N
+t1532,Westend 8,Bygmestervej 59,None,N
+t1441,Westend 8,Halvtolv 19,None,N
+t995,Arne Jacobsens Alle 7,Bygmestervej 59,None,N
+t607,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t1433,Dronninglundvej 12,Westend 8,None,N
+t1279,Borgbjergsvej 43,Westend 8,1,Y
+t412,Amalievej 1,Borups Plads (overfor Stefansgade 73),None,N
+t670,Orientkaj 4,Halvtolv 19,None,N
+t404,Amalievej 1,Drechselsgade 13,None,N
+t1453,Westend 8,Orientkaj 4,None,N
+t1222,Borgbjergsvej 43,Orientkaj 4,4,Y
+t1384,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t1460,Westend 8,Arne Jacobsens Alle 7,None,N
+t992,Arne Jacobsens Alle 7,Orientkaj 4,None,N
+t1454,Westend 8,Bygmestervej 59,None,N
+t713,Orientkaj 4,Amalievej 1,None,N
+t615,Drechselsgade 13,Borgbjergsvej 43,None,N
+t1497,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t725,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t952,Borups Plads (overfor Stefansgade 73),Drechselsgade 13,None,N
+t1459,Westend 8,Borups Plads (overfor Stefansgade 73),None,N
+t674,Orientkaj 4,Amalievej 1,None,N
+t1531,Westend 8,Orientkaj 4,None,N
+t452,Amalievej 1,Borups Plads (overfor Stefansgade 73),None,N
+t310,Halvtolv 19,Westend 8,None,N
+t635,Drechselsgade 13,Amalievej 1,None,N
+t1250,Borgbjergsvej 43,Halvtolv 19,None,N
+t915,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t1403,Dronninglundvej 12,Halvtolv 19,None,N
+t451,Amalievej 1,Borups Plads (overfor Stefansgade 73),None,N
+t243,Halvtolv 19,Amalievej 1,None,N
+t295,Halvtolv 19,Borups Plads (overfor Stefansgade 73),None,N
+t1520,Westend 8,Halvtolv 19,None,N
+t1260,Borgbjergsvej 43,Orientkaj 4,None,N
+t817,Bygmestervej 59,Westend 8,None,N
+t921,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t752,Bygmestervej 59,Amalievej 1,1,Y
+t1238,Borgbjergsvej 43,Dronninglundvej 12,None,N
+t1420,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t776,Bygmestervej 59,Dronninglundvej 12,4,Y
+t739,Orientkaj 4,Westend 8,None,N
+t446,Amalievej 1,Orientkaj 4,None,N
+t953,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t970,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,None,N
+t1505,Westend 8,Borgbjergsvej 43,2,Y
+t756,Bygmestervej 59,Drechselsgade 13,None,N
+t699,Orientkaj 4,Westend 8,None,N
+t270,Halvtolv 19,Westend 8,None,N
+t999,Arne Jacobsens Alle 7,Borups Plads (overfor Stefansgade 73),None,N
+t1455,Westend 8,Bygmestervej 59,None,N
+t1220,Borgbjergsvej 43,Drechselsgade 13,None,N
+t646,Drechselsgade 13,Borups Plads (overfor Stefansgade 73),None,N
+t701,Orientkaj 4,Westend 8,None,N
+t448,Amalievej 1,Bygmestervej 59,None,N
+t610,Drechselsgade 13,Arne Jacobsens Alle 7,None,N
+t1549,Westend 8,Dronninglundvej 12,None,N
+t443,Amalievej 1,Drechselsgade 13,None,N
+t282,Halvtolv 19,Amalievej 1,None,N
+t621,Drechselsgade 13,Westend 8,2,Y
+t1253,Borgbjergsvej 43,Amalievej 1,1,Y
+t727,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t308,Halvtolv 19,Dronninglundvej 12,None,N
+t732,Orientkaj 4,Borgbjergsvej 43,None,N
+t1266,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t603,Drechselsgade 13,Bygmestervej 59,None,N
+t292,Halvtolv 19,Bygmestervej 59,None,N
+t1415,Dronninglundvej 12,Orientkaj 4,None,N
+t407,Amalievej 1,Orientkaj 4,None,N
+t643,Drechselsgade 13,Bygmestervej 59,2,Y
+t616,Drechselsgade 13,Borgbjergsvej 43,None,N
+t1262,Borgbjergsvej 43,Bygmestervej 59,3,Y
+t914,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t596,Drechselsgade 13,Amalievej 1,None,N
+t1258,Borgbjergsvej 43,Drechselsgade 13,None,N
+vehicle_id,loc_css
+sv0,Dronninglundvej 12
+sv1,Dronninglundvej 12
+sv2,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv3,Bispebjerg Bakke 22
+sv4,Halvtolv 19
+sv5,Westend 8
+sv6,Dronninglundvej 12
+sv7,Bygmestervej 59
+sv8,Westend 8
+sv9,Solvgade 11
+sv10,Halvtolv 19
+sv11,Dronninglundvej 12
+sv12,Bispebjerg Bakke 22
+sv13,Westend 8
+sv14,Bygmestervej 59
+sv15,Westend 8
+sv16,Amalievej 1
+sv17,Borgbjergsvej 43
+sv18,Borups Plads (overfor Stefansgade 73)
+sv19,Borups Plads (overfor Stefansgade 73)
+sv20,Amalievej 1
+sv21,Borups Plads (overfor Stefansgade 73)
+sv22,Nesbyholmvej 1
+sv23,Bygmestervej 59
+sv24,Albaniensgade 4
+sv25,Amalievej 1
+sv26,Arne Jacobsens Alle 7
+sv27,Westend 8
+sv28,Borups Plads (overfor Stefansgade 73)
+sv29,Husumvej (overfor 131)
+sv30,Borgbjergsvej 43
+sv31,Drechselsgade 13
+sv32,Westend 8
+sv33,Orientkaj 4
+sv34,Amalievej 1
+sv35,Halvtolv 19
+sv36,Orientkaj 4
+sv37,Orientkaj 4
+sv38,Halvtolv 19
+sv39,Borgbjergsvej 43
+sv40,Bygmestervej 59
+sv41,Drechselsgade 13
+sv42,Dronninglundvej 12
+sv43,Orientkaj 4
+sv44,Albaniensgade 4
+sv45,Bygmestervej 59
+sv46,Drechselsgade 13
+sv47,Bygmestervej 59
+sv48,Westend 8
+sv49,Drechselsgade 13
+sv50,Vigerslev Venge 60
+sv51,Husumvej (overfor 131)
+sv52,Dronninglundvej 12
+sv53,Westend 8
+sv54,Borups Plads (overfor Stefansgade 73)
+sv55,Westend 8
+sv56,Borgbjergsvej 43
+sv57,Borgbjergsvej 43
+sv58,Bygmestervej 59
+sv59,Borups Plads (overfor Stefansgade 73)
+sv60,Borups Plads (overfor Stefansgade 73)
+sv61,Drechselsgade 13
+sv62,Westend 8
+sv63,Borups Plads (overfor Stefansgade 73)
+sv64,Drechselsgade 13
+sv65,Drechselsgade 13
+sv66,Borgbjergsvej 43
+sv67,Bygmestervej 59
+sv68,Amalievej 1
+sv69,Borgbjergsvej 43
+sv70,Borgbjergsvej 43
+sv71,Drechselsgade 13
+sv72,Dronninglundvej 12
+sv73,Drechselsgade 13
+sv74,Bygmestervej 59
+sv75,Borups Plads (overfor Stefansgade 73)
+sv76,Bygmestervej 59
+sv77,Westend 8
+sv78,Dronninglundvej 12
+sv79,Arne Jacobsens Alle 7
+sv80,Dronninglundvej 12
+sv81,Halvtolv 19
+sv82,Orientkaj 4
+sv83,Vigerslev Venge 60
+sv84,Westend 8
+sv85,Westend 8
+sv86,Amalievej 1
+sv87,Albaniensgade 4
+sv88,Borups Plads (overfor Stefansgade 73)
+sv89,Borups Plads (overfor Stefansgade 73)
+sv90,Halvtolv 19
+sv91,Amalievej 1
+sv92,Westend 8
+sv93,Drechselsgade 13
+sv94,Arne Jacobsens Alle 7
+sv95,Nesbyholmvej 1
+sv96,Bygmestervej 59
+sv97,Borgbjergsvej 43
+sv98,Husumvej (overfor 131)
+sv99,Orientkaj 4

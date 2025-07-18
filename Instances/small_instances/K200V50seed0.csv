@@ -1,0 +1,252 @@
+traveller_id,cus_o,cus_d,highest_pl,whether_request
+t944,Borups Plads (overfor Stefansgade 73),Solvgade 11,None,N
+t334,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t33,Albaniensgade 4,Vigerslev Venge 60,None,N
+t1197,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borgbjergsvej 43,None,N
+t1137,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Solvgade 11,None,N
+t1266,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t953,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t139,Bispebjerg Bakke 22,Borups Plads (overfor Stefansgade 73),None,N
+t314,Solvgade 11,Bispebjerg Bakke 22,None,N
+t1321,Vigerslev Venge 60,Albaniensgade 4,None,N
+t382,Solvgade 11,Borgbjergsvej 43,1,Y
+t118,Bispebjerg Bakke 22,Albaniensgade 4,None,N
+t79,Bispebjerg Bakke 22,Albaniensgade 4,None,N
+t112,Bispebjerg Bakke 22,Dronninglundvej 12,None,N
+t145,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t117,Bispebjerg Bakke 22,Albaniensgade 4,None,N
+t149,Bispebjerg Bakke 22,Vigerslev Venge 60,None,N
+t1200,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Dronninglundvej 12,None,N
+t914,Borups Plads (overfor Stefansgade 73),Orientkaj 4,None,N
+t109,Bispebjerg Bakke 22,Borgbjergsvej 43,None,N
+t328,Solvgade 11,Orientkaj 4,None,N
+t63,Albaniensgade 4,Arne Jacobsens Alle 7,None,N
+t1376,Dronninglundvej 12,Orientkaj 4,None,N
+t1431,Dronninglundvej 12,Vigerslev Venge 60,1,Y
+t1344,Vigerslev Venge 60,Borups Plads (overfor Stefansgade 73),None,N
+t1193,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t1306,Vigerslev Venge 60,Arne Jacobsens Alle 7,None,N
+t1208,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t734,Orientkaj 4,Vigerslev Venge 60,None,N
+t731,Orientkaj 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t960,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t380,Solvgade 11,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t938,Borups Plads (overfor Stefansgade 73),Bispebjerg Bakke 22,None,N
+t337,Solvgade 11,Arne Jacobsens Alle 7,None,N
+t1393,Dronninglundvej 12,Vigerslev Venge 60,None,N
+t693,Orientkaj 4,Borgbjergsvej 43,None,N
+t134,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t142,Bispebjerg Bakke 22,Arne Jacobsens Alle 7,None,N
+t1421,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),None,N
+t724,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t1152,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),1,Y
+t381,Solvgade 11,Borgbjergsvej 43,None,N
+t1420,Dronninglundvej 12,Borups Plads (overfor Stefansgade 73),1,Y
+t1299,Vigerslev Venge 60,Orientkaj 4,None,N
+t931,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,None,N
+t1251,Borgbjergsvej 43,Solvgade 11,None,N
+t725,Orientkaj 4,Borups Plads (overfor Stefansgade 73),None,N
+t1360,Dronninglundvej 12,Albaniensgade 4,None,N
+t968,Borups Plads (overfor Stefansgade 73),Vigerslev Venge 60,None,N
+t23,Albaniensgade 4,Borups Plads (overfor Stefansgade 73),None,N
+t22,Albaniensgade 4,Borups Plads (overfor Stefansgade 73),None,N
+t147,Bispebjerg Bakke 22,Borgbjergsvej 43,None,N
+t1198,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Vigerslev Venge 60,None,N
+t55,Albaniensgade 4,Orientkaj 4,None,N
+t1368,Dronninglundvej 12,Solvgade 11,None,N
+t124,Bispebjerg Bakke 22,Solvgade 11,None,N
+t374,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t47,Albaniensgade 4,Solvgade 11,None,N
+t379,Solvgade 11,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1289,Vigerslev Venge 60,Solvgade 11,None,N
+t146,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),1,Y
+t1191,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),None,N
+t697,Orientkaj 4,Dronninglundvej 12,None,N
+t1268,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t30,Albaniensgade 4,Borgbjergsvej 43,None,N
+t702,Orientkaj 4,Albaniensgade 4,None,N
+t35,Albaniensgade 4,Dronninglundvej 12,2,Y
+t899,Borups Plads (overfor Stefansgade 73),Bispebjerg Bakke 22,None,N
+t385,Solvgade 11,Dronninglundvej 12,None,N
+t687,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t999,Arne Jacobsens Alle 7,Borups Plads (overfor Stefansgade 73),None,N
+t1129,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Albaniensgade 4,None,N
+t1169,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Bispebjerg Bakke 22,None,N
+t930,Borups Plads (overfor Stefansgade 73),Vigerslev Venge 60,None,N
+t1244,Borgbjergsvej 43,Albaniensgade 4,3,Y
+t1322,Vigerslev Venge 60,Bispebjerg Bakke 22,None,N
+t898,Borups Plads (overfor Stefansgade 73),Albaniensgade 4,4,Y
+t1222,Borgbjergsvej 43,Orientkaj 4,None,N
+t2,Albaniensgade 4,Bispebjerg Bakke 22,None,N
+t961,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t24,Albaniensgade 4,Arne Jacobsens Alle 7,None,N
+t1199,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Vigerslev Venge 60,None,N
+t1230,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t927,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,3,Y
+t1315,Vigerslev Venge 60,Dronninglundvej 12,None,N
+t353,Solvgade 11,Bispebjerg Bakke 22,None,N
+t1390,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t1228,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t1190,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),1,Y
+t17,Albaniensgade 4,Orientkaj 4,None,N
+t72,Albaniensgade 4,Vigerslev Venge 60,None,N
+t1391,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t736,Orientkaj 4,Dronninglundvej 12,None,N
+t73,Albaniensgade 4,Dronninglundvej 12,None,N
+t1272,Borgbjergsvej 43,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),3,Y
+t343,Solvgade 11,Borgbjergsvej 43,None,N
+t965,Borups Plads (overfor Stefansgade 73),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1252,Borgbjergsvej 43,Solvgade 11,None,N
+t932,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,2,Y
+t103,Bispebjerg Bakke 22,Arne Jacobsens Alle 7,None,N
+t735,Orientkaj 4,Vigerslev Venge 60,None,N
+t1167,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Albaniensgade 4,4,Y
+t976,Arne Jacobsens Alle 7,Albaniensgade 4,None,N
+t1346,Vigerslev Venge 60,Arne Jacobsens Alle 7,None,N
+t663,Orientkaj 4,Albaniensgade 4,None,N
+t1185,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Orientkaj 4,None,N
+t351,Solvgade 11,Albaniensgade 4,None,N
+t1312,Vigerslev Venge 60,Borgbjergsvej 43,None,N
+t727,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t695,Orientkaj 4,Vigerslev Venge 60,None,N
+t1361,Dronninglundvej 12,Bispebjerg Bakke 22,None,N
+t313,Solvgade 11,Albaniensgade 4,None,N
+t1422,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t1397,Dronninglundvej 12,Albaniensgade 4,None,N
+t726,Orientkaj 4,Arne Jacobsens Alle 7,None,N
+t730,Orientkaj 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t68,Albaniensgade 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t922,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t46,Albaniensgade 4,Solvgade 11,None,N
+t106,Bispebjerg Bakke 22,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1350,Vigerslev Venge 60,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1305,Vigerslev Venge 60,Borups Plads (overfor Stefansgade 73),None,N
+t1207,Borgbjergsvej 43,Bispebjerg Bakke 22,None,N
+t347,Solvgade 11,Dronninglundvej 12,None,N
+t1184,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Orientkaj 4,None,N
+t64,Albaniensgade 4,Arne Jacobsens Alle 7,None,N
+t1213,Borgbjergsvej 43,Solvgade 11,None,N
+t1205,Borgbjergsvej 43,Albaniensgade 4,None,N
+t1311,Vigerslev Venge 60,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1223,Borgbjergsvej 43,Orientkaj 4,None,N
+t967,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,3,Y
+t897,Borups Plads (overfor Stefansgade 73),Albaniensgade 4,None,N
+t1154,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t1162,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Dronninglundvej 12,None,N
+t74,Albaniensgade 4,Dronninglundvej 12,None,N
+t1355,Vigerslev Venge 60,Dronninglundvej 12,None,N
+t1196,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borgbjergsvej 43,None,N
+t1130,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Albaniensgade 4,4,Y
+t1276,Borgbjergsvej 43,Dronninglundvej 12,None,N
+t102,Bispebjerg Bakke 22,Arne Jacobsens Alle 7,None,N
+t1245,Borgbjergsvej 43,Bispebjerg Bakke 22,2,Y
+t705,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1323,Vigerslev Venge 60,Bispebjerg Bakke 22,None,N
+t666,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1160,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Vigerslev Venge 60,None,N
+t1282,Vigerslev Venge 60,Albaniensgade 4,None,N
+t40,Albaniensgade 4,Bispebjerg Bakke 22,None,N
+t1175,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Solvgade 11,None,N
+t335,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t152,Bispebjerg Bakke 22,Dronninglundvej 12,4,Y
+t1153,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Borups Plads (overfor Stefansgade 73),None,N
+t1316,Vigerslev Venge 60,Dronninglundvej 12,None,N
+t1405,Dronninglundvej 12,Solvgade 11,None,N
+t929,Borups Plads (overfor Stefansgade 73),Vigerslev Venge 60,None,N
+t1236,Borgbjergsvej 43,Vigerslev Venge 60,None,N
+t341,Solvgade 11,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t1429,Dronninglundvej 12,Borgbjergsvej 43,None,N
+t691,Orientkaj 4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t945,Borups Plads (overfor Stefansgade 73),Solvgade 11,None,N
+t1389,Dronninglundvej 12,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t665,Orientkaj 4,Bispebjerg Bakke 22,None,N
+t1231,Borgbjergsvej 43,Arne Jacobsens Alle 7,None,N
+t928,Borups Plads (overfor Stefansgade 73),Borgbjergsvej 43,None,N
+t921,Borups Plads (overfor Stefansgade 73),Arne Jacobsens Alle 7,None,N
+t34,Albaniensgade 4,Dronninglundvej 12,None,N
+t315,Solvgade 11,Bispebjerg Bakke 22,None,N
+t664,Orientkaj 4,Albaniensgade 4,None,N
+t1201,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Dronninglundvej 12,4,Y
+t1275,Borgbjergsvej 43,Vigerslev Venge 60,None,N
+t733,Orientkaj 4,Borgbjergsvej 43,None,N
+t16,Albaniensgade 4,Orientkaj 4,None,N
+t373,Solvgade 11,Borups Plads (overfor Stefansgade 73),None,N
+t1176,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Solvgade 11,None,N
+t140,Bispebjerg Bakke 22,Borups Plads (overfor Stefansgade 73),None,N
+t148,Bispebjerg Bakke 22,Borgbjergsvej 43,None,N
+t925,Borups Plads (overfor Stefansgade 73),Soborg Hovedgade 88 /Carl Blochs Alle (p plads),None,N
+t971,Borups Plads (overfor Stefansgade 73),Dronninglundvej 12,4,Y
+t1267,Borgbjergsvej 43,Borups Plads (overfor Stefansgade 73),None,N
+t1146,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Orientkaj 4,1,Y
+t1388,Dronninglundvej 12,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t94,Bispebjerg Bakke 22,Orientkaj 4,None,N
+t1235,Borgbjergsvej 43,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),2,Y
+t31,Albaniensgade 4,Borgbjergsvej 43,None,N
+t386,Solvgade 11,Dronninglundvej 12,None,N
+t1426,Dronninglundvej 12,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),4,Y
+t8,Albaniensgade 4,Solvgade 11,None,N
+t1298,Vigerslev Venge 60,Orientkaj 4,None,N
+t698,Orientkaj 4,Dronninglundvej 12,None,N
+t61,Albaniensgade 4,Borups Plads (overfor Stefansgade 73),4,Y
+t69,Albaniensgade 4,Borgbjergsvej 43,None,N
+t329,Solvgade 11,Orientkaj 4,None,N
+t998,Arne Jacobsens Alle 7,Borups Plads (overfor Stefansgade 73),None,N
+t983,Arne Jacobsens Alle 7,Solvgade 11,None,N
+t1384,Dronninglundvej 12,Arne Jacobsens Alle 7,None,N
+t1237,Borgbjergsvej 43,Vigerslev Venge 60,None,N
+t1192,Soborg Hovedgade 88 /Carl Blochs Alle (p plads),Arne Jacobsens Alle 7,None,N
+t41,Albaniensgade 4,Bispebjerg Bakke 22,None,N
+t1328,Vigerslev Venge 60,Solvgade 11,None,N
+t1337,Vigerslev Venge 60,Orientkaj 4,None,N
+t977,Arne Jacobsens Alle 7,Bispebjerg Bakke 22,None,N
+vehicle_id,loc_css
+sv0,Nesbyholmvej 1
+sv1,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv2,Borups Plads (overfor Stefansgade 73)
+sv3,Orientkaj 4
+sv4,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv5,Albaniensgade 4
+sv6,Arne Jacobsens Alle 7
+sv7,Esthersvej 34
+sv8,Dronninglundvej 12
+sv9,Borups Plads (overfor Stefansgade 73)
+sv10,Bispebjerg Bakke 22
+sv11,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv12,Borups Plads (overfor Stefansgade 73)
+sv13,Orientkaj 4
+sv14,Bispebjerg Bakke 22
+sv15,Borups Plads (overfor Stefansgade 73)
+sv16,Borups Plads (overfor Stefansgade 73)
+sv17,Frederik Vs Vej 13  (Rigshospital P huset)
+sv18,Bispebjerg Bakke 22
+sv19,Esthersvej 34
+sv20,Dronninglundvej 12
+sv21,Frederik Vs Vej 13  (Rigshospital P huset)
+sv22,Borups Plads (overfor Stefansgade 73)
+sv23,Halvtolv 19
+sv24,Albaniensgade 4
+sv25,Arne Jacobsens Alle 7
+sv26,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv27,Dronninglundvej 12
+sv28,Bygmestervej 59
+sv29,Borups Plads (overfor Stefansgade 73)
+sv30,Drechselsgade 13
+sv31,Borups Plads (overfor Stefansgade 73)
+sv32,Dronninglundvej 12
+sv33,Borups Plads (overfor Stefansgade 73)
+sv34,Dronninglundvej 12
+sv35,Frederik Vs Vej 13  (Rigshospital P huset)
+sv36,Soborg Hovedgade 88 /Carl Blochs Alle (p plads)
+sv37,Borgbjergsvej 43
+sv38,Borgbjergsvej 43
+sv39,Solvgade 11
+sv40,Solvgade 11
+sv41,Bygmestervej 59
+sv42,Borgbjergsvej 43
+sv43,Borups Plads (overfor Stefansgade 73)
+sv44,Dronninglundvej 12
+sv45,Orientkaj 4
+sv46,Westend 8
+sv47,Borgbjergsvej 43
+sv48,Amalievej 1
+sv49,Dronninglundvej 12
